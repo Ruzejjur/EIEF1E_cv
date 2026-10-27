@@ -1,13 +1,9 @@
-# 01DYNR1cv
-2025/2026 (summer term)
+# EIEF1Ecv
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aleksejalex/DYNR1cv_2026/HEAD)
-
-
-Materials for practical exercises for lecture on **Dynamic Decision Making** ([sylabus](https://bilakniha.cvut.cz/en/predmet7300706.html#gsc.tab=0)) on [Faculty of Nuclear Sciences and Physical Engineering](https://www.fjfi.cvut.cz/en/) (Czech Technical University).
+Materials for practical exercises for lecture on **EIEF1E Metody AI pro rozhodování založené na datech** on [Faculty of Economics and Management](https://www.pef.czu.cz/en) (Czech University of Life Sciences).
 
 Lecturer: *doc. Ing. Tatiana V. Guy, Ph.D.* ([web](https://as.utia.cas.cz/people/tatiana-guy/)) \
-Tutors: *doc. Ing. Tatiana V. Guy, Ph.D.* & *Ing. Aleksej Gaj* ([web](https://aleksejgaj.cz/))
+Tutors: *doc. Ing. Tatiana V. Guy, Ph.D.* & *Ing. Aleksej Gaj* ([web](https://aleksejgaj.cz/)) & *Jurij Ružejnikov (mail([email](mailto:ruzejnikov@pef.czu.cz))*
 
 **Note.** Some notebooks can run in Binder or Colab, but the best way is to run it locally (on your HW).
 
